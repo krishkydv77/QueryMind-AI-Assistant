@@ -56,7 +56,7 @@ QueryMind AI follows a simple Natural Language-to-SQL workflow:
 
 
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology                 | Purpose                            |
 | -------------------------- | ---------------------------------- |
